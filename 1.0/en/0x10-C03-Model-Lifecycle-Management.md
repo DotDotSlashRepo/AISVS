@@ -2,7 +2,7 @@
 
 ## Control Objective
 
-AI systems must implement change control processes that prevent unauthorized or unsafe model modifications from reaching production. These controls ensure model integrity through the entire lifecycle--from development through deployment to decommissioning--which enables rapid incident response and maintains accountability for all changes.
+AI systems must implement change control processes that prevent unauthorized or unsafe model modifications from reaching production. These controls ensure model integrity through the entire lifecycle, from development through deployment to decommissioning, which enables rapid incident response and maintains accountability for all changes.
 
 **Core Security Goal:** Only authorized, validated models reach production by employing controlled processes that maintain integrity, traceability, and recoverability.
 
